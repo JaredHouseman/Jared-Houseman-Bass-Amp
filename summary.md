@@ -1,8 +1,10 @@
 # Student Names 
-Henry Forsyth
+Jared Houseman
+Electrical Engineering
+jhouseman@vt.edu
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+Initial proposal
 
 # Date Started
-11-16-2000
+8/26/23
